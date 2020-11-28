@@ -5,6 +5,8 @@
  */
 package inventorymanagement;
 
+
+
 /**
  *
  * @author Hanane Nour
@@ -16,6 +18,8 @@ public class InventoryManagement {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
     }
     
 }
